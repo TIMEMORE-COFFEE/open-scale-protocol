@@ -1,4 +1,4 @@
-# Timemore DOT BLE Protocol
+# Timemore BLE Protocol
 
 BLE communication protocol for Timemore Black Mirror scales.
 
