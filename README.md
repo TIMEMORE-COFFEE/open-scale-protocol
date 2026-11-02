@@ -1,6 +1,8 @@
 # Timemore DOT BLE Protocol
 
-BLE communication protocol for the Timemore DOT scale.
+BLE communication protocol for Timemore Black Mirror scales.
 
 - Supports Timemore DOT (TES017)
-- BLE transparent transmission based on GATT
+- Supports Timemore Basic3 Link (TES016)
+
+BLE transparent transmission based on GATT
